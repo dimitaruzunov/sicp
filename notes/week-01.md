@@ -18,6 +18,10 @@ Here are some resources that can help while going through the book:
 * [SICP Distilled](http://www.sicpdistilled.com) – SICP with Clojure
 * [SICP MIT video lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures)
 
+Questions
+---------
+* Is my assumption about normal-order evaluation in exercise 1.6 correct?
+
 Remarks
 -------
 While I was reading Chapter 1, I noticed some references to computability
