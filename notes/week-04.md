@@ -1,4 +1,4 @@
-"Week" 4 (2017-08-08 - 2017-09-19)
+"Week" 4 (2017-08-08 – 2017-09-19)
 ==================================
 
 Since we haven't had a meeting for over a month, we decided to hold a small one.
